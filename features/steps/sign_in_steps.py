@@ -3,7 +3,7 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 import sys
 
-sys.path.append("D:\\Uni Deb stuff\\2021 -2'nd Semester(8th)\\Software Testing\\Final Project")
+sys.path.append("D:\\locators.py\\directory")
 
 from features.steps.locaters import locator
 
