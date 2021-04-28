@@ -16,7 +16,9 @@ from selenium.webdriver.support.select import Select
 from webdriver_manager.chrome import ChromeDriverManager
 import sys, os
 
-sys.path.append("Locators\\directory")
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
+sys.path.append(dir_path)
 
 from features.steps.locaters import locator
 
