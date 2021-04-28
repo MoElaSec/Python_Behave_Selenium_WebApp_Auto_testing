@@ -5,6 +5,10 @@
 
 A CLI tool used to fuly test WebApps using Python Behave+Selenuim+Click
 
+Feature  | Step implmentation
+------------- | -------------
+![image](https://user-images.githubusercontent.com/48570596/116403066-2ceb7800-a83e-11eb-9dbc-a98036168cf1.png)  | ![image](https://user-images.githubusercontent.com/48570596/116403250-658b5180-a83e-11eb-9735-2d017ec2707b.png)
+
 
 ### 👨‍💻Dev-Env:
 create a `venv` or `pipenv` and run:
