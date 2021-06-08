@@ -1,4 +1,4 @@
-# BDD: Automate testing for WebApps with selenium & Cucumber/behave
+# PyBDD: Automate testing for WebApps with selenium & Cucumber/behave
 [![AUTOMATION](https://img.shields.io/badge/automation-selenium-brightgreen)](https://github.com/SeleniumHQ/selenium)
 [![BDD](https://img.shields.io/badge/BDD-behave-brown)](https://github.com/behave/behave)
 [![CLI](https://img.shields.io/badge/CLI-click-purple)](https://github.com/pallets/click)
